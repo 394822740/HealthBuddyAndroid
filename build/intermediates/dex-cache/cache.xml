@@ -21,12 +21,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/conrad/Desktop/HealthBuddyAndroid-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7345a9273c6fced78df43d274c23889ddcaf22a4">
+        <dex dex="/Users/conrad/Desktop/HealthBuddyAndroid-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4edc63d3bbc15f57e8dfc635f1688b5cfdab8796/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/conrad/.android/build-cache/6ed68496697f03bc8ac8586c3c2f89d67fbed35b/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
         <dex dex="/Users/conrad/AndroidStudioProjects/HealthBuddy-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e0cb5d24bb9f5d63126e5d69e53ffa4dd443c60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/conrad/Desktop/HealthBuddyAndroid-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/conrad/Desktop/HealthBuddyAndroid-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_59d6ef0a5d3fa2a5627ae81309c98e42919cf18b/classes.dex" />
     </item>
 
 </items>

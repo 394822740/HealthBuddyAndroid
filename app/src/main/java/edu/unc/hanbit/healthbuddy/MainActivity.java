@@ -39,6 +39,9 @@ public class MainActivity extends AppCompatActivity {
         if (v.getId() == R.id.activity) {
             startActivity(new Intent(getApplicationContext(), ExerciseActivity.class));
         }
+        if(v.getId()==R.id.email){
+            startActivity(new Intent(getApplicationContext(), EmailActivity.class));
+        }
 
         //911
         if (v.getId() == R.id.emergency) {
